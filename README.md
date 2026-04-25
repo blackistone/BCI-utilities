@@ -5,3 +5,5 @@ The puredata files take in the BCI-Core 8 data from OSC as per the above sender 
 udp-sender-osc.py is a kinda replacement for udp-sender from the gpype library
 
 example-basic-udp-send-osc.py is the udp example and sender lib file combined to just run without configuring anything extra.
+
+port 56000 is the default osc for the library.
